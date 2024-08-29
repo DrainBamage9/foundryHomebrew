@@ -4,7 +4,7 @@
 			{
 				"json": "Homebrew",
 				"abbreviation": "HB",
-				"full": "Homebrew"
+				"full": "Homebrew",
 				"version": "1.0.0",
 				"authors": [
 					"DrainBamage"
