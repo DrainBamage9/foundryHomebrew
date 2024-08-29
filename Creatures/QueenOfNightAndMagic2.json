@@ -9,7 +9,7 @@
 				"authors": [
 					"DrainBamage"
 				],
-			}
+			},
 		],
 		"dateAdded": 1683995660,
 		"dateLastModified": 1693666789,
@@ -18,7 +18,7 @@
 	"monster": [
 		{
 	"name": "Queen of Night and Magic",
-	"source": "HomeBrew"
+	"source": "HomeBrew",
 	"page": 178,
 	"size": [
 		"M"
