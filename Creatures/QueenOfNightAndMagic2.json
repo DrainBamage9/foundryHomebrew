@@ -1,6 +1,24 @@
 {
+	"_meta": {
+		"sources": [
+			{
+				"json": "Homebrew"
+				"abbreviation": "HB",
+				"full": "Homebrew"
+				"version": "1.0.0",
+				"authors": [
+					"DrainBamage"
+				],
+			}
+		],
+		"dateAdded": 1683995660,
+		"dateLastModified": 1693666789,
+		"_dateLastModifiedHash": "337635c366"
+	},
+	"monster": [
+		{
 	"name": "Queen of Night and Magic",
-	"source": "QueenofNightandInk",
+	"source": HomeBrew
 	"page": 178,
 	"size": [
 		"M"
@@ -83,7 +101,6 @@
 	"spellcasting": [
 		{
 			"name": "Spellcasting",
-			"type": "spellcasting",
 			"headerEntries": [
 				"The Queen of Night and Magic casts one of the following spells, using Charisma as the spellcasting ability (spell save {@dc 22}):"
 			],
@@ -108,7 +125,7 @@
 				]
 			},
 			"ability": "cha",
-			"displayAs": "action"
+			"type": "spellcasting"
 		}
 	],
 	"trait": [
@@ -387,4 +404,6 @@
 		"constitution",
 		"wisdom"
 	]
+}
+]
 }
