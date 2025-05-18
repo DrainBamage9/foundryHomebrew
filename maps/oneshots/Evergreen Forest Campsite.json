@@ -1,0 +1,28 @@
+{
+  "name": "Evergreen Forest Campsite",
+  "width": 9000,
+  "height": 7500,
+  "grid": 300,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.0,
+  "lights": [
+    {
+      "x": 5268,
+      "y": 2832,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    }
+  ],
+  "walls": [],
+  "img": null,
+  "foreground": null
+}
